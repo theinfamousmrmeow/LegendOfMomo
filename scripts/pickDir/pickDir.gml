@@ -1,0 +1,1 @@
+return ceil(random(argument0))*(360/argument0);
