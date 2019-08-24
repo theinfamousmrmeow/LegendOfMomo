@@ -6,7 +6,8 @@
     "children": [
         "aa0de7ee-0616-430b-85d2-9f4a7de80cbf",
         "aab22d3d-5aeb-479a-8a2c-ab280a51e099",
-        "2348c82a-f776-4df4-9fc7-77c7e2903cf8"
+        "2348c82a-f776-4df4-9fc7-77c7e2903cf8",
+        "acfcb94c-5de7-4967-abdd-6ef002898408"
     ],
     "filterType": "GMSprite",
     "folderName": "Monsters",

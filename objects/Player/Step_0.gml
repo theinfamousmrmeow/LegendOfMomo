@@ -65,3 +65,19 @@ else {
   }
 
 if (vspeed>terminal_velocity){vspeed=terminal_velocity;}
+
+if (global.hp<=0){
+	global.hp=0;
+	takeAction(actions.dying);
+}
+
+if (action==actions.dying){
+		if (image_alpha>0.05){
+			image_alpha/=1.1;
+			var r = image_alpha*255;
+			image_blend=make_color_rgb(r,r,r);
+		}
+		else {
+			game_restart();	
+		}
+}

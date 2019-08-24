@@ -3,3 +3,6 @@
 poiRoom = room1;
 image_speed=0;
 image_blend=palette.leaf;
+action = actions.idle;
+revealed = true;
+cleared = false;

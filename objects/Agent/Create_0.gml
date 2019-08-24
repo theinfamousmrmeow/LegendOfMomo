@@ -3,4 +3,4 @@
 faction = factions.monster;
 action = actions.idle;
 facing = 1;
-hp = 3;
+hp = 1;

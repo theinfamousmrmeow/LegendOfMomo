@@ -12,7 +12,8 @@
         "585506c9-54d2-4ba7-bea7-1d50f0d5c1af",
         "47a271c6-9f95-4e1c-8e34-5386c06445c8",
         "fc0ecb37-0f77-45ef-b200-49d7c95b5aba",
-        "d82a594d-5887-49ec-99fd-9fc68fd78a15"
+        "d82a594d-5887-49ec-99fd-9fc68fd78a15",
+        "9809fa00-9ab1-4707-8920-def6db2ddfe0"
     ],
     "filterType": "GMObject",
     "folderName": "Platformy",

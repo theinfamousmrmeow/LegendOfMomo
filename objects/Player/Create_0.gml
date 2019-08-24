@@ -3,6 +3,7 @@
 event_inherited();
 initPhysics();
 macros();
+initBattleHUD();
 faction = factions.player;
 control = global.keyboard1;
 action=actions.idle;

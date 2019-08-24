@@ -1,3 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-image_blend=c_red;
+x=room_width/2;
+y=room_height/2;
+alarm[0]=300;

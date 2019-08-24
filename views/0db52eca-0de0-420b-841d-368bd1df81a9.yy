@@ -12,7 +12,9 @@
         "b30d9126-01e3-4541-ac0c-da1721f56256",
         "f2029259-b8c7-46a0-815f-8f6683f9df0d",
         "cb5ba638-eb3f-4936-89a3-00cb5c9f33de",
-        "018f9b2f-e782-4c9d-9aab-ae99f4e4fa3e"
+        "018f9b2f-e782-4c9d-9aab-ae99f4e4fa3e",
+        "78b0bad1-017c-48e9-a889-ed7f5251c27b",
+        "0eb61615-3001-4806-9f95-bcaab841a025"
     ],
     "filterType": "GMSprite",
     "folderName": "Heroine",

@@ -1,6 +1,6 @@
 #macro TERMINAL_VELOCITY 3
-
-#macro LANDING_RECOVER_TIME 8;
+#macro CELL_SIZE 8
+#macro LANDING_RECOVER_TIME 8
 
 #macro ACTION_IDLE 0
 #macro ACTION_FLAP 1
@@ -49,7 +49,9 @@ hurt_recoil,
 hurt_stagger,
 land,
 pressed,
-released
+released,
+appearing,
+dying
 }
 
 enum palette {
@@ -72,6 +74,19 @@ enum inputs {
 	right,
 	a,
 	b
+}
+
+enum gameStates {
+	playing,
+	pause,
+	dying
+}
+
+
+enum encounters {
+	guard,
+	roving,
+	special
 }
 
 	global.keyboard1 = [vk_up, vk_down, vk_left, vk_right, vk_space,vk_shift];

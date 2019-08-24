@@ -9,7 +9,7 @@ yy = 600;
 
 //i=instance_create_depth(xx,yy,-9999,VirtualKey);
 
-
+/*
 
 global.left = virtual_key_add(xx-w*1.2, yy, w, h, vk_left);
 global.up = virtual_key_add(xx, yy-w*1.2, w, h, vk_up);

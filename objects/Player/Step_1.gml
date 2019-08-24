@@ -1,6 +1,6 @@
 /// @description Controls
 // You can write your code in this editor
-
+if (playerIsDead()) {return;}
 if (action == actions.crouch || action == actions.fall || action == actions.jump){
 	if (keyboard_check(control[inputs.b])){
 			//Attack animation.

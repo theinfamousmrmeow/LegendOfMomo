@@ -19,8 +19,8 @@ if (shake>0){
 	shake--;	
 }
 
-x=mean(x,xx);
-y=mean(y,yy);
+x=mean(x,x,xx);
+y=mean(y,y,yy);
 
 camera_set_view_pos(cam,x-camera_get_view_width(cam)/2,y-camera_get_view_height(cam)/2);
 

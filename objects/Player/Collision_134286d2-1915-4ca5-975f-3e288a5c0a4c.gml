@@ -3,7 +3,7 @@
 if (action!=actions.hurt_recoil){
 	action=actions.hurt_recoil;
 	cameraShake(10);
-	damagePlayer(1);
+	damagePlayer(10);
 	vspeed=-6;
 	if (other.x>x){xspeed=-3;}
 	else {xspeed=3;}
