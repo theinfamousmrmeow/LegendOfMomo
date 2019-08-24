@@ -17,8 +17,8 @@ if (action!=actions.hurt_recoil){
 	//image_xscale = facing;
 
 	enemy = getEnemy();
-	if (distance_to_point(enemy.x,enemy.y-80)>30) {
-		motion_add(point_direction(x,y,enemy.x,enemy.y-80)+random(2)-1,0.1);
+	if (distance_to_point(enemy.x,enemy.y-60)>(25+hp*5)) {
+		motion_add(point_direction(x,y,enemy.x,enemy.y-60)+random(2)-1,0.1);
 		}
 	speed = clamp(speed,-2,1.5);
 	//if (x<0){hspeed=1;}

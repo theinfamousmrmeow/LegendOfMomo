@@ -254,7 +254,7 @@
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Background_1",
+            "name": "bg_mountains",
             "id": "44726aab-0411-40b1-8177-e0e9cfd3fb76",
             "animationFPS": 15,
             "animationSpeedType": "0",
@@ -285,7 +285,7 @@
             "vspeed": 0,
             "vtiled": false,
             "x": 0,
-            "y": 0
+            "y": 360
         },
         {
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
@@ -357,7 +357,7 @@
     ],
     "viewSettings":     {
         "id": "c8c878e9-0a31-4a2d-a52c-3333e67298a6",
-        "clearDisplayBuffer": true,
+        "clearDisplayBuffer": false,
         "clearViewBackground": true,
         "enableViews": true,
         "inheritViewSettings": false,
