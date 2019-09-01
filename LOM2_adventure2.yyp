@@ -90,7 +90,7 @@
             "Key": "0eb61615-3001-4806-9f95-bcaab841a025",
             "Value": {
                 "id": "2783c9ec-092d-4aea-81c2-f501060c250d",
-                "resourcePath": "sprites\\sprite39\\sprite39.yy",
+                "resourcePath": "sprites\\spr_bigbird\\spr_bigbird.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -284,6 +284,14 @@
                 "id": "f04e1d9f-407e-4a36-853f-204db7163f2c",
                 "resourcePath": "scripts\\initPhysics\\initPhysics.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "359827ea-0204-4f6c-9f20-90f65f39caa4",
+            "Value": {
+                "id": "57468440-2f03-46e0-9c75-2be5efc057ea",
+                "resourcePath": "objects\\Manticore\\Manticore.yy",
+                "resourceType": "GMObject"
             }
         },
         {

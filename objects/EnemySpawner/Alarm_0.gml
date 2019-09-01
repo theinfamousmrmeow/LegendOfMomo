@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 if (enemiesLeft-->0){
-	enemy = choose(Imp,Raven,Ghost);
+	enemy = choose(Imp,Manticore,Ghost);
 
 	p = getPlayer();
 	yy = p.y-24;
